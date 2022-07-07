@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="ggg">
+    <file>----------.png</file>
+    <file>gui.png</file>
+  </qresource>
+</RCC>
